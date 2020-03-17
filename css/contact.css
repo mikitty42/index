@@ -1,0 +1,19 @@
+.miki th{
+  width: 150px;
+  height: 7rem;
+  padding: 9px;
+}
+.miki tr td .miki1{
+  width: 480px;
+}
+.miki tr td .miki2{
+  width: 480px;
+}
+.miki tr td .miki3{
+  width: 480px;
+}
+.miki tr td .miki4{
+  color: white;
+  background-color: lightblue;
+  opacity: 0.5
+}
